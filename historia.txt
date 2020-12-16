@@ -1,1 +1,3 @@
-Este es el primer mensaje que se va a modificar para el curso de git alv 
+Este es el primer mensaje que se va a modificar para el curso de git alv
+
+Ahora añado otra nota para tener un commit adicional 
