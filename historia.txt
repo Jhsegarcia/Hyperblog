@@ -1,1 +1,1 @@
-mensaje secreto
+Este es el primer mensaje que se va a modificar para el curso de git alv 
